@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I've built an awesome blog at [blog.hasha.io](https://blog.hasha.io/), which I write articles on.
-- 🤔 There is my [Github Star List].(https://github.com/tsui66?tab=stars)
+- 🤔 There is my [Github Star List](https://github.com/tsui66?tab=stars).
 
 | ![Tsui's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsui66&count_private=true&show_icons=true) | ![Tsui's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsui66&custom_title=Tsui%27s%20Most%20Used%20Languages&langs_count=8&layout=compact)  	|
 | ------------- | ------------- |
