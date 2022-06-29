@@ -24,10 +24,23 @@
 <p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
 
 <h3 align="left">Awesome tools:</h3>
-<p align="left"> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="40" height="40"/> </a>
-<a href="https://www.pulumi.com" target="_blank" rel="noreferrer"> <img src="https://www.pulumi.com/images/logo/logo-on-white-box.svg?" alt="Pulumi" width="40" height="40"/> </a>
-</p>
-
+<table>
+<tr>
+	<td colspan="2">Database ORM</td>
+</tr>
+<tr>
+<td><a href="https://www.prisma.io/">Prisma</a></td>
+<td>Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB.</td>
+</tr>
+<tr>
+<td colspan="2">SRE & DevOps</td>
+</tr>
+<tr>
+<td><a href="https://www.pulumi.com/docs/">Pulumi</a></td>
+<td>Pulumi is a modern infrastructure as code platform that allows you to use familiar programming languages and tools to build, deploy, and manage cloud infrastructure.</td>
+</tr>
+</tbody>
+</table>
 <!--
 **tsui66/tsui66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
