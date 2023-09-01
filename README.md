@@ -1,5 +1,5 @@
 ### Hi there 👋
-- There is my favorite [NextJS stack Star List](https://github.com/stars/tsui66/lists/nextjs-stack) - The NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app.
+- [NextJS stack Star List](https://github.com/stars/tsui66/lists/nextjs-stack) - The NextJS boilerplate with all you need to build your SaaS, AI tool, or any other web app.
 
 <!--
 **tsui66/tsui66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
